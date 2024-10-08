@@ -71,6 +71,3 @@ projeto-conversor-excel-pdf/
 
 Fique à vontade para contribuir com melhorias, novas funcionalidades ou correções de bugs. Faça um fork do repositório, crie uma branch para suas alterações e envie um Pull Request.
 
----
-
-Se precisar de mais algum ajuste, é só avisar!
