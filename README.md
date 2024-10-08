@@ -46,7 +46,7 @@ pip install pywin32
    Após configurar os diretórios, execute o script principal:
 
    ```bash
-   python APP3.py
+   python app.py
    ```
 
 4. **Resultado**:
